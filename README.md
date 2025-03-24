@@ -27,3 +27,5 @@ npm run dev
 ```sh
 npm run build
 ```
+# Vue-crash-course
+a JobListing app containing all essentials Vue.js concepts
